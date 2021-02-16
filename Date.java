@@ -35,7 +35,7 @@ public class Date {
 	}
 
 	public String displayDate(){
-		return (month + "/" + day + "/" + year);
+		return (day + "/" + month + "/" + year);
 	}
 
 }
